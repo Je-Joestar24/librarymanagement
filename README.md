@@ -41,7 +41,7 @@ Basic knowledge of PHP, MySQL, and local server configuration.
 Installation
 
 Clone the Repository:
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/Je-Joestar24/librarymanagement.git
 
 Import the Database:
 
